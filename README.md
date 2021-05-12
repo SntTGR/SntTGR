@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi
 - 🌱 I’m currently learning Java/Web service development
 - 🔭 Currently hobby work on RT-3D stuff as an aside.
 - 📫 How to reach me: email prefered. Discord for direct communication.
